@@ -1,0 +1,1 @@
+This is a time series analysis on the opening prices of the SPDR S&P 500 ETF(SPY), from May 2023 to February 2025. The data was extracted via polygon.io API. Here, I ran multiple tests and plots to fit an optimal model, and ultimately produced a forecast.
